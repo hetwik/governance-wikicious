@@ -214,7 +214,7 @@
     "@project-serum/sol-wallet-adapter": "0.2.6",
     "@project-serum/serum": "0.13.65",
     "@coral-xyz/borsh": "0.27.0",
-    "bignumber.js": "9.0.2",
+    "bignumber.js": "4.0.4",
     "lodash": "4.17.21",
     "**/@cardinal/certificates/mocha": "10.1.0",
     "**/@cardinal/stake-pool/mocha": "10.1.0",
